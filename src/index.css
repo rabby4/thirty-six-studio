@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	/* background: #fd2c2a; */
+	background: #000;
+}
